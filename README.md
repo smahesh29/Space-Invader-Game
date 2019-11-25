@@ -7,7 +7,7 @@ The space_up.py file is a little bit more updated compared to space.py. In order
 
 In both files winsound and os, modules are used to play sound in windows and linux/mac respectively. When sound for linux is commented and you are running the program in linux, uncomment the sound for linux and comment the sound for windows. In the program, it is specified which line is used to give sound for windows and which line is used to give the sound for linux.
 
-For these programs an additional turtle module in python is required and also winsound for windows users or os for linux/mac users. If these modules are not pre-installed, then install it first to execute programs without any errors.
+For these programs, an additional turtle module in python is required and also winsound for windows users or os for linux/mac users. If these modules are not pre-installed, then install it first to execute programs without any errors.
 
 For installing Turtle Module use command :
 
