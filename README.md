@@ -3,11 +3,11 @@ This is a Space Invader Game created using python turtle. It contains two python
   1. space.py
   2. space_up.py
 
-The space_up.py file is little bit updated than space.py. But to understand how the program is working you should first go through space.py file and after understanding the code go through space_up.py file.
+The space_up.py file is a little bit more updated compared to space.py. In order to understand how the program is working, you should first go through the space.py file. After understanding the code, go through the space_up.py file.
 
-In both the files winsound and os modules are used to play sound in windows and linux/mac respectively. In which sound for linux is commented, if you are running the program in linux; first uncomment the sound for linux and comment the sound for windows. In the program it is mention that which line is used to give sound for windows and which line is used to give the sound for linux.
+In both files winsound and os, modules are used to play sound in windows and linux/mac respectively. When sound for linux is commented and you are running the program in linux, uncomment the sound for linux and comment the sound for windows. In the program, it is specified which line is used to give sound for windows and which line is used to give the sound for linux.
 
-For this programs additional turtle module of python is required and also winsound for windows users and os for linux/mac users. If this modules are not pre-installed, then install it first to execute programs without any errors.
+For these programs, an additional turtle module in python is required and also winsound for windows users or os for linux/mac users. If these modules are not pre-installed, then install it first to execute programs without any errors.
 
 For installing Turtle Module use command :
 
