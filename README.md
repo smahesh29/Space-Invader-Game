@@ -1,4 +1,4 @@
-# Space-Invader-Game
+# Space-Invader-Game   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Space-Invader-Game">
 This is a Space Invader Game created using python turtle. It contains two python files:
   1. space.py
   2. space_up.py
