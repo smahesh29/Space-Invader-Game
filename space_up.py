@@ -1,4 +1,4 @@
-# Space Invader
+# Space Invader by Mahesh Sawant
 
 import turtle
 import winsound
@@ -9,7 +9,7 @@ import random
 # Set up the screen
 wn = turtle.Screen()
 wn.bgcolor("blue")
-wn.title("Space Invaders")
+wn.title("Space Invaders by Mahesh Sawant")
 wn.bgpic("background.gif")
 
 # Register the shape
